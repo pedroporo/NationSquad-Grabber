@@ -40,7 +40,7 @@ namespace R4TSquad
 			{
 				try
 				{
-					Program.SendHook("~ R4TSquad ~", msg);
+					Program.SendHook("~ NationSquad ~", msg);
 				}
 				catch
 				{
