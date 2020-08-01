@@ -55,7 +55,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="RatSquad.ico" />
+    <Content Include="NationScuad.ico" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="UI.resx">
